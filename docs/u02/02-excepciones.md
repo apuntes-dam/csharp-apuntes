@@ -82,7 +82,7 @@ Salida:
 
 ## Lanzar y crear excepciones
 
-Tú también puedes avisar de un error: eso es **lanzar** una excepción con **`throw`**. Se hace cuando un método recibe datos que no puede aceptar o cuando una operación no se puede completar. Una excepción propia es una clase que hereda de `Exception` (las clases se explican a fondo en la unidad 4).
+Tú también puedes avisar de un error: eso es **lanzar** una excepción con **`throw`**. Se hace cuando un método recibe datos que no puede aceptar o cuando una operación no se puede completar. Una excepción propia es una clase que hereda de `Exception` (las clases se explican a fondo en la [unidad 4](../u04/index.md)).
 
 ```csharp
 var cuenta = new Cuenta(100);
