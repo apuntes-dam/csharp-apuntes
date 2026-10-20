@@ -1,6 +1,6 @@
 # 1.2 Práctica con el lenguaje
 
-## Estructura de un programa C#
+## Estructura de un programa C&#35;
 
 Desde C# 9 un programa puede ser solo una lista de instrucciones, sin clase ni `Main`. Se llaman **instrucciones de nivel superior** (*top-level statements*):
 

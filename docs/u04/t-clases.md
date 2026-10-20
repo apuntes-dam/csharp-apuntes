@@ -68,7 +68,7 @@ Observa cuatro cosas:
 !!! note "Las clases van al final del archivo"
     En un programa con instrucciones de nivel superior (sin `Main`), las **clases se escriben después** de las instrucciones, como en el ejemplo. En un proyecto con varios archivos, cada clase suele tener el suyo.
 
-## Cómo se escribe en C#
+## Cómo se escribe en C&#35;
 
 | Necesito... | En C# |
 |---|---|

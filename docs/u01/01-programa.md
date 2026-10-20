@@ -5,7 +5,7 @@ Un **programa** es una secuencia de instrucciones que resuelve un problema, y el
 !!! info "La teoría general está aparte"
     Qué es un algoritmo, el ciclo de desarrollo y el **pseudocódigo** son iguales en todos los lenguajes, así que están en una sola página: [Fundamentos: algoritmos y pseudocódigo](https://apuntes-dam.github.io/apuntes-lenguajes/fundamentos/). Aquí solo ves cómo se traduce a C#.
 
-## Del pseudocódigo a C#
+## Del pseudocódigo a C&#35;
 
 El algoritmo del área de un rectángulo, en pseudocódigo:
 

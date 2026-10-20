@@ -73,7 +73,7 @@ Salida:
 Error: celsius: por debajo del cero absoluto (Parameter 'celsius')
 ```
 
-## Cómo se hace en C#
+## Cómo se hace en C&#35;
 
 | Necesito... | En C# |
 |---|---|

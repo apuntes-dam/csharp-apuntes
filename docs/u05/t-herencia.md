@@ -74,7 +74,7 @@ Qué ocurre aquí:
 * `Perro` añade un método que `Animal` no tiene (`TraerPelota`). Para llamarlo hay que **comprobar el tipo** antes (`a is Perro perro`, que además convierte la variable), porque la lista contiene animales de todo tipo.
 * Las tres líneas se imprimen con **la misma llamada** (`a.Presentarse()`), pero el resultado depende de **qué objeto concreto** hay detrás. Eso se llama **polimorfismo** y se explica en el [siguiente apartado](t-abstractas.md).
 
-## Cómo se escribe en C#
+## Cómo se escribe en C&#35;
 
 | Necesito... | En C# |
 |---|---|
