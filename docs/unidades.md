@@ -14,7 +14,10 @@ Recorrido sugerido: **lee la unidad, practícala y marca la casilla del final** 
 | [U9 · Bases de datos relacionales](u09/index.md) | Conexión, consultas, transacciones y patrón DAO | 9 | <span class="u-estado" data-unit="u09"></span> |
 
 !!! warning "Web en construcción"
-    Por ahora están las **unidades 1 a 7 y la 9**. La sección Avanzado se irá añadiendo.
+    Están las **unidades 1 a 7 y la 9** (el material original no tiene unidad 8) y la sección Avanzado.
+
+!!! tip "¿Quieres ir más allá?"
+    Activa el interruptor **Avanzado** de la cabecera para ver el [material avanzado](avanzado/index.md): programación funcional, genéricos, asincronía, pruebas y patrones de diseño.
 
 !!! info "Cómo funciona el desbloqueo"
     Es un bloqueo **suave**, guardado en tu navegador: sirve para llevar el orden, no para esconder nada. Puedes desbloquear una unidad directamente desde la página de sus ejercicios.
